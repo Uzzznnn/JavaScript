@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#btn{
+   font-size: 2em;
+   font-family: Arial, sans-serif; 
+}
+
+.label{
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+}
