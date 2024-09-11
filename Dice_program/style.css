@@ -1,0 +1,33 @@
+#container{
+    text-align: center;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+button{
+    font-size: 1em;
+    background-color: rgb(37, 234, 217);
+    border-radius: 20px;
+    border-width:5px ;
+    border-color:rgb(39, 195, 190) ;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input{
+    font-size: 1.5rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+button:hover{
+    background-color: aqua;
+    
+}
